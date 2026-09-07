@@ -1,4 +1,3 @@
-# Peter Jones
 
 ## Health Data Science | AI | Healthcare Strategy
 
